@@ -8,5 +8,7 @@ Usage:
 
 Run the program and proceed as per the instructions given in the menu.
 
+*Currently works for S6,S4 and S1S2 results announced in December,2013
+
 For any clarifications,
 drop a line to manojmj92@gmail.com
